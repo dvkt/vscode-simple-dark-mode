@@ -42,25 +42,25 @@
     "editorCursor.foreground": "#fff",
     "editor.selectionBackground": "#222426",
     "editor.selectionForeground": "#fff",
-    "editor.selectionHighlightBorder": "#009688",
-    "editor.wordHighlightBackground": "#009688",
-    "editor.wordHighlightBorder": "#009688",
+    "editor.selectionHighlightBorder": "#222426",
+    "editor.selectionHighlightBackground": "#222426",
+    "editor.wordHighlightBackground": "#222426",
+    "editor.wordHighlightBorder": "#222426",
     "editor.wordHighlightStrongBackground": "#222426",
-    "editor.wordHighlightStrongBorder": "#009688",
+    "editor.wordHighlightStrongBorder": "#222426",
     "editorMarkerNavigation.background": "#000",
     "editor.lineHighlightBackground": "#222426",
-    "editor.selectionHighlightBackground": "#000",
     "editorBracketMatch.border": "#222426",
     "editorBracketMatch.background": "#000",
     "editor.findMatchBackground": "#000",
-    "editor.findMatchBorder": "#009688",
+    "editor.findMatchBorder": "#f700a9",
     "editor.findMatchHighlightBackground": "#000",
     "editorIndentGuide.background": "#000",
     // テキストの色
     "textBlockQuote.background": "#000",
     "textBlockQuote.border": "#222426",
     "textCodeBlock.background": "#000",
-    "textLink.activeForeground": "#009688",
+    "textLink.activeForeground": "#f700a9",
     "textLink.foreground": "#fff",
     "textPreformat.foreground": "#fff",
     "textSeparator.foreground": "#fff",
@@ -69,7 +69,7 @@
     "list.activeSelectionForeground": "#fff",
     "list.focusBackground": "#222426",
     "list.focusForeground": "#fff",
-    "list.highlightForeground": "#009688",
+    "list.highlightForeground": "#f700a9",
     "list.hoverBackground": "#222426",
     "list.hoverForeground": "#fff",
     "list.inactiveSelectionBackground": "#222426",
@@ -135,7 +135,7 @@
     "inputValidation.errorBackground": "#000",
     "inputValidation.errorBorder": "#ff0000",
     "inputValidation.infoBackground": "#000",
-    "inputValidation.infoBorder": "#009688",
+    "inputValidation.infoBorder": "#f700a9",
     "inputValidation.warningBackground": "#000",
     "inputValidation.warningBorder": "#e6a23c",
     // ドロップダウンコントロール
@@ -144,11 +144,11 @@
     "dropdown.border": "#222426",
     "dropdown.foreground": "#000",
     // ボタンコントロール
-    "button.background": "#009688",
+    "button.background": "#f700a9",
     "button.foreground": "#fff",
-    "button.hoverBackground": "#009688",
+    "button.hoverBackground": "#f700a9",
     // ベースカラー
-    "focusBorder": "#009688",
+    "focusBorder": "#f700a9",
     "foreground": "#fff",
     "widget.shadow": "#000",
     "selection.background": "#000",
@@ -174,7 +174,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#009688"
+        "foreground": "#f700a9"
       }
     },
     {
@@ -436,7 +436,7 @@
         "markup.inserted"
       ],
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#f700a9"
       }
     },
     {
@@ -463,7 +463,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#f700a9"
       }
     },
     {
@@ -807,7 +807,7 @@
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#009688"
+        "foreground": "#f700a9"
       }
     },
     {
