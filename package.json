@@ -1,9 +1,9 @@
 {
-    "name": "simple-dark-mode",
-    "displayName": "SIMPLE DARK MODE",
+    "name": "simple-dvrk-mode",
+    "displayName": "Simple Dvkt Mode",
     "description": "dark mode for vscode",
-    "version": "0.9.4",
-    "publisher": "in-the-box",
+    "version": "0.10.0",
+    "publisher": "dvkt",
     "author": {
         "name": "in-the-box",
         "email": "c.uehira@pixelgram.jp"
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/in-the-box/vscode-simple-dark-mode"
+        "url": "https://github.com/dvkt/vscode-simple-dark-mode"
     },
     "icon": "assets/icon.png",
     "markdown": "github",
@@ -31,10 +31,16 @@
     "contributes": {
         "themes": [
             {
-                "label": "SIMPLE DARK MODE",
+                "label": "Simple Dvkt Mode",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme.json"
+                "path": "./themes/simple-dark.json"
+            },
+            {
+                "label": "Complex Dvkt Mode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/complex-dark.json"
             }
+            
         ]
     }
 }

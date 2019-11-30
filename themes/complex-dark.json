@@ -1,0 +1,332 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#000000",
+		"editor.foreground": "#c7c6f8",
+		"editor.lineHighlightBackground": "#1b1b1b",
+		"editor.selectionBackground": "#505050",
+		"editorCursor.foreground": "#f006e0",
+		"editorWhitespace.foreground": "#505050",
+		// アクティブバー
+		"activityBar.background": "#000",
+		"activityBar.foreground": "#fff",
+		"activityBar.border": "#222426",
+		"activityBar.dropBackground": "#222426",
+		"activityBarBadge.background": "#fff",
+		"activityBarBadge.foreground": "#000",
+		// サイドバー
+		"sideBar.background": "#000",
+		"sideBar.foreground": "#fff",
+		"sideBar.dropBackground": "#222426",
+		"sideBar.border": "#222426",
+		"sideBarSectionHeader.background": "#000",
+		"sideBarSectionHeader.foreground": "#fff",
+		// エディタのグループ
+		"editorGroup.background": "#000",
+		"editorGroup.border": "#222426",
+		"editorGroup.dropBackground": "#222426",
+		"editorGroupHeader.noTabsBackground": "#000",
+		"editorGroupHeader.tabsBackground": "#000",
+		"editorGroupHeader.tabsBorder": "#222426",
+		// バッジ
+		"badge.foreground": "#000",
+		"badge.background": "#fff",
+		// タブ
+		"tab.activeBackground": "#000",
+		"tab.border": "#222426",
+		"tab.activeBorder": "#fff",
+		"tab.inactiveBackground": "#000",
+		"tab.hoverBackground": "#000",
+		"tab.unfocusedHoverBackground": "#000",
+		"tab.hoverBorder": "#fff",
+		// テキストの色
+		"textBlockQuote.background": "#000",
+		"textBlockQuote.border": "#222426",
+		"textCodeBlock.background": "#000",
+		"textLink.activeForeground": "#f700a9",
+		"textLink.foreground": "#fff",
+		"textPreformat.foreground": "#fff",
+		"textSeparator.foreground": "#fff",
+		// リストとツリー
+		"list.activeSelectionBackground": "#222426",
+		"list.activeSelectionForeground": "#fff",
+		"list.focusBackground": "#222426",
+		"list.focusForeground": "#fff",
+		"list.highlightForeground": "#f700a9",
+		"list.hoverBackground": "#222426",
+		"list.hoverForeground": "#fff",
+		"list.inactiveSelectionBackground": "#222426",
+		"list.inactiveSelectionForeground": "#fff",
+		"list.inactiveFocusBackground": "#222426",
+		"list.inactiveFocusForeground": "#fff",
+		"list.invalidItemForeground": "#ff4545",
+		// タイトルバー
+		"titleBar.activeBackground": "#000",
+		"titleBar.activeForeground": "#fff",
+		"titleBar.inactiveBackground": "#000",
+		"titleBar.inactiveForeground": "#fff",
+		"titleBar.border": "#222426",
+		// ウェルカムページ
+		"welcomePage.buttonBackground": "#000",
+		"walkThrough.embeddedEditorBackground": "#000",
+		"welcomePage.buttonHoverBackground": "#fff",
+		// デバッグ
+		"debugToolBar.background": "#000",
+		// クイックピッカー
+		"pickerGroup.border": "#222426",
+		"pickerGroup.foreground": "#fff",
+		// 拡張機能
+		"extensionButton.prominentForeground": "#fff",
+		"extensionButton.prominentBackground": "#222426",
+		"extensionButton.prominentHoverBackground": "#fff",
+		// 通知の色
+		"notificationCenterHeader.foreground": "#fff",
+		"notificationCenter.border": "#222426",
+		"notificationCenterHeader.background": "#000",
+		"notificationToast.border": "#222426",
+		"notifications.foreground": "#fff",
+		"notifications.background": "#000",
+		"notifications.border": "#000",
+		"notificationLink.foreground": "#222426",
+		// ステータスバーの色
+		"statusBar.background": "#000",
+		"statusBar.foreground": "#fff",
+		"statusBar.border": "#222426",
+		"statusBar.debuggingBackground": "#000",
+		"statusBar.debuggingForeground": "#fff",
+		"statusBar.debuggingBorder": "#222426",
+		"statusBarItem.hoverBackground": "#000",
+		"statusBar.noFolderBackground": "#1C1C1D",
+		// パネルの色
+		"panel.background": "#000",
+		"panel.dropBackground": "#222426",
+		"panel.border": "#222426",
+		"panelTitle.activeBorder": "#fff",
+		// スクロールバーコントロール
+		"scrollbar.shadow": "#000",
+		"scrollbarSlider.background": "#222426",
+		"scrollbarSlider.activeBackground": "#fff",
+		"scrollbarSlider.hoverBackground": "#fff",
+		// プログレスバー
+		"progressBar.background": "#fff",
+		// 入力制御
+		"input.background": "#000",
+		"input.border": "#222426",
+		"input.foreground": "#fff",
+		"input.placeholderForeground": "#222426",
+		"inputOption.activeBorder": "#fff",
+		"inputValidation.errorBackground": "#000",
+		"inputValidation.errorBorder": "#ff0000",
+		"inputValidation.infoBackground": "#000",
+		"inputValidation.infoBorder": "#f700a9",
+		"inputValidation.warningBackground": "#000",
+		"inputValidation.warningBorder": "#e6a23c",
+		// ドロップダウンコントロール
+		"dropdown.background": "#fff",
+		"dropdown.listBackground": "#fff",
+		"dropdown.border": "#222426",
+		"dropdown.foreground": "#000",
+		// ボタンコントロール
+		"button.background": "#f700a9",
+		"button.foreground": "#fff",
+		"button.hoverBackground": "#f700a9",
+		// ベースカラー
+		"focusBorder": "#f700a9",
+		"foreground": "#fff",
+		"widget.shadow": "#000",
+		"selection.background": "#000",
+		"descriptionForeground": "#fff",
+		"errorForeground": "#ff0000",
+		// Gitの色
+		// 統合ターミナルカラー
+		// 差分エディタの色
+		"diffEditor.insertedTextBackground": "#0096872d",
+		"diffEditor.removedTextBackground": "#ff00002d",
+		// エディタウィジェットの色
+		// ピークカラーを見る
+		"peekView.border": "#222426",
+		"peekViewEditor.background": "#000"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#9f9f9fff",
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#f006e0"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#fff235"
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#07ac90ff",
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": "constant.character, constant.other",
+			"settings": {
+				"foreground": "#1c87c7"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#5b6dd4ff",
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#7100f5",
+				"fontStyle": " bold"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+					"foreground": "#00d181"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#fc0000ff"
+			}
+		},
+		{
+			"name": "Class name",
+			"scope": "entity.name.class",
+			"settings": {
+				"fontStyle": "underline",
+				"foreground": "#fc0000ff"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"foreground": "#fc0000ff"
+			}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#1db0ff",
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#fc0000ff"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#ff00ffff"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#8c4600ff"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#c00000"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "#fc0000ff"
+			}
+		},
+		{
+			"name": "Library class/type",
+			"scope": "support.type, support.class",
+			"settings": {
+				"foreground": "#fc0000ff"
+			}
+		},
+		{
+			"name": "Library variable",
+			"scope": "support.other.variable",
+			"settings": {
+				"foreground": "#ffffffff",
+				"background": "#194000ff"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"background": "#ff00ffff",
+				"fontStyle": "",
+				"foreground": "#ffffffff"
+			}
+		},
+		{
+			"name": "Invalid deprecated",
+			"scope": "invalid.deprecated",
+			"settings": {
+				"background": "#74acffff",
+				"foreground": "#ffffffff"
+			}
+		},
+		{
+			"scope": "token.info-token",
+			"settings": {
+				"foreground": "#6796e6"
+			}
+		},
+		{
+			"scope": "token.warn-token",
+			"settings": {
+				"foreground": "#cd9731"
+			}
+		},
+		{
+			"scope": "token.error-token",
+			"settings": {
+				"foreground": "#f44747"
+			}
+		},
+		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "#b267e6"
+			}
+		}
+	]
+}
