@@ -196,21 +196,27 @@
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#7100f5",
-				"fontStyle": " bold"
 			}
 		},
 		{
 			"name": "Storage",
-			"scope": "storage",
+			"scope": "storage, storage.type",
 			"settings": {
 					"foreground": "#00d181"
 			}
 		},
 		{
 			"name": "Storage type",
-			"scope": "storage.type",
+			"scope": "storage.type.core.rust",
 			"settings": {
 				"foreground": "#fc0000ff"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type.rust",
+			"settings": {
+				"foreground": "#7100f5"
 			}
 		},
 		{
