@@ -1,4 +1,4 @@
-# SIMPLE DVKT THEME
+# Simple Dvkt Theme
 
 fork of https://github.com/in-the-box/vscode-simple-dark-mode
 
