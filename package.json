@@ -2,7 +2,7 @@
     "name": "simple-dvrk-mode",
     "displayName": "Simple Dvkt Mode",
     "description": "dark mode for vscode",
-    "version": "0.11.0",
+    "version": "0.12.0",
     "publisher": "dvkt",
     "author": {
         "name": "in-the-box",
