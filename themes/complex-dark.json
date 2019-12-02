@@ -207,9 +207,9 @@
 		},
 		{
 			"name": "Storage type",
-			"scope": "storage.type.core.rust",
+			"scope": "storage.type.core.rust, meta.attribute.rust",
 			"settings": {
-				"foreground": "#fc0000ff"
+				"foreground": "#757575"
 			}
 		},
 		{
@@ -275,7 +275,7 @@
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#fc0000ff"
+				"foreground": "#757575"
 			}
 		},
 		{
